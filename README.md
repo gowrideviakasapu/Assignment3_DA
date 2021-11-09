@@ -3,6 +3,7 @@ README
 Please follow the steps in the README.md file before proceed to use the project
 
 ABOUT
+
 I got the user interface for the web from a student of mine, Pat Wilken.
 
 A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
@@ -29,6 +30,7 @@ This application allows the user to purchase the list of products that they want
 https://dev.azure.com/Dakasapu4398/_git/Assignment3_DA
 
 LICENSE
+
 MIT License
 
 Copyright (c) 2021 gowrideviakasapu
@@ -39,6 +41,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-#REASON FOR LICENSE
+REASON FOR LICENSE
+
 MIT license is easily available class of licenses, users do not have to provide any other source code when releasing new software. The original MIT license in the reused code will make it suitable for commercial use.
 
