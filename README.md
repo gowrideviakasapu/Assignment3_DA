@@ -1,20 +1,21 @@
-#README
+README
+
 Please follow the steps in the README.md file before proceed to use the project
 
-#ABOUT
+ABOUT
 I got the user interface for the web from a student of mine, Pat Wilken.
 
 A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
 
 A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot.
 
-#How do I get set up?
+How do I get set up?
 
 1.Install Microsoft SQL 2019, Visual Studio 2019 
 2.Download all codes and jquery.html 
 3.Run software and the application allows the user to enter the products that they are willing to purchase
 
-#User Advice
+How to Use
 
 1.Enter the user name 
 2.Enter the password 
@@ -22,12 +23,12 @@ A popular theme for the upcoming Halloween holiday is to make haunted house simu
 4.pay the amount of product 
 5.Checkout the product
 
-#What is this repository for?
+What is this repository for?
 
 This application allows the user to purchase the list of products that they want to purchase in store from the online. 
 https://dev.azure.com/Dakasapu4398/_git/Assignment3_DA
 
-#LICENSE
+LICENSE
 MIT License
 
 Copyright (c) 2021 gowrideviakasapu
